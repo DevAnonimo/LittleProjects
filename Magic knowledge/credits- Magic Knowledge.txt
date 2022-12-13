@@ -1,1 +1,5 @@
 Characters - https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/
+
+book - https://opengameart.org/content/open-book-0
+
+tilemaps - https://cainos.itch.io/pixel-art-top-down-basic
