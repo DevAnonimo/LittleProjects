@@ -1,5 +1,10 @@
 Characters - https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/
 
-book - https://opengameart.org/content/open-book-0
+books
+- https://opengameart.org/content/open-book-0
+- https://opengameart.org/content/magic-books
 
 tilemaps - https://cainos.itch.io/pixel-art-top-down-basic
+
+magic icon
+- https://opengameart.org/content/painterly-spell-icons-part-3
