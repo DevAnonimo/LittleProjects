@@ -1,3 +1,6 @@
 Quando o player levar hit inimigo, ele da um pulo pra trás piscando
 
 Quando mudar de nível, ele recebe novos poderes para praticar mas aqueles poderes do nível anterior, ficam como padrão agora
+
+Livro de manual, ensina agora como fazer as contas sem considerar poder de habilidade, vida ou dano. Agora terá apenas a história de como
+começaram a desenvolver a magia em questão e como realmente desenvolver o cálculo necessário
