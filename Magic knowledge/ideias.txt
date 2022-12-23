@@ -4,3 +4,5 @@ Quando mudar de nível, ele recebe novos poderes para praticar mas aqueles poder
 
 Livro de manual, ensina agora como fazer as contas sem considerar poder de habilidade, vida ou dano. Agora terá apenas a história de como
 começaram a desenvolver a magia em questão e como realmente desenvolver o cálculo necessário
+
+Para o player lançar a magia, o jogo usa uma caixa na posição atual do mouse. Onde player clicar, será a magia
