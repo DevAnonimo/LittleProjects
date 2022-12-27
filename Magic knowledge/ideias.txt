@@ -1,8 +1,22 @@
-Quando o player levar hit inimigo, ele da um pulo pra trás piscando
+MAGIC KNOWLEDGE
 
-Quando mudar de nível, ele recebe novos poderes para praticar mas aqueles poderes do nível anterior, ficam como padrão agora
 
-Livro de manual, ensina agora como fazer as contas sem considerar poder de habilidade, vida ou dano. Agora terá apenas a história de como
-começaram a desenvolver a magia em questão e como realmente desenvolver o cálculo necessário
+O QUE VAI TER =============
+- Quando o player levar hit inimigo, ele da um pulo pra trás piscando
+- Tutorial terá apenas a história de como começaram desenvolver a magia em questão, e como realmente desenvolver o cálculo necessário
+- Para o player lançar a magia, o jogo usa uma caixa na posição atual do mouse. Onde player clicar, será a magia
+- Na criação da magia, ou ele já vai me dar o resultado pra fazer a fórmula ou vou ter que encontrar o resultado com a fómula dada
 
-Para o player lançar a magia, o jogo usa uma caixa na posição atual do mouse. Onde player clicar, será a magia
+
+ESTOU PENSANDO EM FAZER ~~~~~~~~~~~~~~
+~ Quando mudar de nível, ele recebe novos poderes para praticar mas aqueles poderes do nível anterior, ficam como padrão agora
+~ O resultado das contas podem ser usados pra construir uma equação no mapa que faz alguma coisa quando completada. Tipo receber uma magia
+nova, liberar novos espaços no mapa...
+~ O tipo de poder da magia pode ser difinido pela dificuldade de fazer a equação. Pode ser com base o número de algarismos na fórmula
+~ O jogo não deixa alterar o valor dos textos da fórmula (para não bugar)
+
+
+BUGS xxxxxxxxxxxxxxxxxxxxxxx
+x Contas de divisão dando números infinitos
+x Contas de subtração dando números negativos
+x Os números escolhidos para a fórmula no pc pode ser diferente do player porque podemos chegar no mesmo resultado com valores diferentes
