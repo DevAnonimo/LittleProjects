@@ -18,5 +18,9 @@ nova, liberar novos espaços no mapa...
 
 BUGS xxxxxxxxxxxxxxxxxxxxxxx
 x Contas de divisão dando números infinitos
-x Contas de subtração dando números negativos
-x Os números escolhidos para a fórmula no pc pode ser diferente do player porque podemos chegar no mesmo resultado com valores diferentes
+ok- Contas de subtração dando números negativos
+ok-  Os números escolhidos para a fórmula no pc pode ser diferente do player porque podemos chegar no mesmo resultado com valores diferentes
+
+
+DÚVIDAS DO GAME DESIGN------------------------
+- Como os super poderes serão feitos? Raiz quadrada, Baskara e etc...
