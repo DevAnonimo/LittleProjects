@@ -7,6 +7,7 @@ O QUE VAI TER =============
 - Para o player lançar a magia, o jogo usa uma caixa na posição atual do mouse. Onde player clicar, será a magia
 - Na criação da magia, ou ele já vai me dar o resultado pra fazer a fórmula ou vou ter que encontrar o resultado com a fómula dada
 - Início do jogo deve ser seguido igual na demo do jogo Lord of the Rings: Conquest
+- Quando o mouse passa por cima de algo que possa ser feito com a magia, o sprite do cursor é trocado
 
 
 ESTOU PENSANDO EM FAZER ~~~~~~~~~~~~~~
@@ -15,13 +16,17 @@ ESTOU PENSANDO EM FAZER ~~~~~~~~~~~~~~
 nova, liberar novos espaços no mapa...
 ~ O tipo de poder da magia pode ser difinido pela dificuldade de fazer a equação. Pode ser com base o número de algarismos na fórmula
 ~ O jogo não deixa alterar o valor dos textos da fórmula (para não bugar)
+~ Trocar o botão atual de fazer magia, para um cérebro já que a narrativa corre em torno disso
+~ Quando uma conta é feita, o jogador recebe uma quantidade de vezes que pode criar a magia.
 
 
 BUGS xxxxxxxxxxxxxxxxxxxxxxx
 ok- Contas de divisão dando números infinitos
-ok- Contas de subtração dando números negativos
+- Contas de subtração dando números negativos. Não tem como responder
 ok-  Os números escolhidos para a fórmula no pc pode ser diferente do player porque podemos chegar no mesmo resultado com valores diferentes
 
 
 DÚVIDAS DO GAME DESIGN------------------------
 - Como os super poderes serão feitos? Raiz quadrada, Baskara e etc...
+Rs.: A cada nível, o jogador passa a fazer contas mais difíceis. 
+Ele terá a escolha de ficar sempre nas contas mais básicas com poderes mais fracos ou partir pra algo mais avançado e poderoso
