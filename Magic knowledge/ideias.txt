@@ -3,21 +3,22 @@ MAGIC KNOWLEDGE
 
 O QUE VAI TER =============
 - Quando o player levar hit inimigo, ele da um pulo pra trás piscando
-- Tutorial terá apenas a história de como começaram desenvolver a magia em questão, e como realmente desenvolver o cálculo necessário
-- Para o player lançar a magia, o jogo usa uma caixa na posição atual do mouse. Onde player clicar, será a magia
-- Na criação da magia, ou ele já vai me dar o resultado pra fazer a fórmula ou vou ter que encontrar o resultado com a fómula dada
+ok- Tutorial terá apenas a história de como começaram desenvolver a magia em questão, e como realmente desenvolver o cálculo necessário
+ok- Para o player lançar a magia, o jogo usa uma caixa na posição atual do mouse. Onde player clicar, será a magia
+ok- Na criação da magia, ou ele já vai me dar o resultado pra fazer a fórmula ou vou ter que encontrar o resultado com a fómula dada
 - Início do jogo deve ser seguido igual na demo do jogo Lord of the Rings: Conquest
-- Quando o mouse passa por cima de algo que possa ser feito com a magia, o sprite do cursor é trocado
+ok- Quando o mouse passa por cima de algo que possa ser feito com a magia, o sprite do cursor é trocado
+- Quando uma conta é feita, o jogador recebe uma quantidade de vezes que pode criar a magia.
 
 
 ESTOU PENSANDO EM FAZER ~~~~~~~~~~~~~~
-~ Quando mudar de nível, ele recebe novos poderes para praticar mas aqueles poderes do nível anterior, ficam como padrão agora
+~ Quando mudar de nível, ele recebe novos poderes para praticar mais aqueles poderes do nível anterior, ficam como padrão agora
 ~ O resultado das contas podem ser usados pra construir uma equação no mapa que faz alguma coisa quando completada. Tipo receber uma magia
 nova, liberar novos espaços no mapa...
 ~ O tipo de poder da magia pode ser difinido pela dificuldade de fazer a equação. Pode ser com base o número de algarismos na fórmula
 ~ O jogo não deixa alterar o valor dos textos da fórmula (para não bugar)
-~ Trocar o botão atual de fazer magia, para um cérebro já que a narrativa corre em torno disso
-~ Quando uma conta é feita, o jogador recebe uma quantidade de vezes que pode criar a magia.
+~ Trocar o botão atual de criar magia, para um cérebro já que a narrativa corre em torno disso
+~ Melhorar câmera de movimentação. Colocar algo mais suave
 
 
 BUGS xxxxxxxxxxxxxxxxxxxxxxx
@@ -28,5 +29,18 @@ ok-  Os números escolhidos para a fórmula no pc pode ser diferente do player p
 
 DÚVIDAS DO GAME DESIGN------------------------
 - Como os super poderes serão feitos? Raiz quadrada, Baskara e etc...
-Rs.: A cada nível, o jogador passa a fazer contas mais difíceis. 
+R.: A cada nível, o jogador passa a fazer contas mais difíceis. 
 Ele terá a escolha de ficar sempre nas contas mais básicas com poderes mais fracos ou partir pra algo mais avançado e poderoso
+
+-Recompensas. Quais e como serão?
+R.: Upgrade no livros de magia. Serão pequenos coletáveis no mapa que permitem a aquisição de contas mais complexas.
+Eles aparecem quando o jogador atingir uma certa quantidade de pontos.
+
+- Como vai ser o jogo?
+R.: Inicialmente, será apenas um mapa com uma quantidade de inimigos vindo.
+
+
+FUTURAMENTE-----------------------------
++ Expandir o jogo para ser online com até 9 jogadores
++ Colocar uma jornada igual ao senhor dos anéis: a sociedade do anél. Onde cada jogador assumirá um papel. A partir disso será possível
+fazer uma aula mais completa do ensino médio como as runas em fomra de letras do alfabeto formando frases e etc...
