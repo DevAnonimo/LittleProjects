@@ -9,22 +9,27 @@ ok- Na criação da magia, ou ele já vai me dar o resultado pra fazer a fórmul
 - Início do jogo deve ser seguido igual na demo do jogo Lord of the Rings: Conquest
 ok- Quando o mouse passa por cima de algo que possa ser feito com a magia, o sprite do cursor é trocado
 ok- Quando uma conta é feita, o jogador recebe uma quantidade de vezes que pode criar a magia.
+- O tipo de poder da magia pode ser difinido pela dificuldade de fazer a equação. Pode ser com base o número de algarismos na fórmula
+- Trocar o botão atual de criar magia, para um cérebro já que a narrativa corre em torno disso
+- Melhorar câmera de movimentação. Colocar algo mais suave
+- Magia de Ataque
+- Magia de Defesa
+- Magia de Summon
+- Magia de Speed
 
 
 ESTOU PENSANDO EM FAZER ~~~~~~~~~~~~~~
 ~ Quando mudar de nível, ele recebe novos poderes para praticar mais aqueles poderes do nível anterior, ficam como padrão agora
 ~ O resultado das contas podem ser usados pra construir uma equação no mapa que faz alguma coisa quando completada. Tipo receber uma magia
 nova, liberar novos espaços no mapa...
-~ O tipo de poder da magia pode ser difinido pela dificuldade de fazer a equação. Pode ser com base o número de algarismos na fórmula
 ~ O jogo não deixa alterar o valor dos textos da fórmula (para não bugar)
-~ Trocar o botão atual de criar magia, para um cérebro já que a narrativa corre em torno disso
-~ Melhorar câmera de movimentação. Colocar algo mais suave
+~ Os aliados do summon podem ser: Uma cópia dos inimigos; Ou um ajudante da sociedade do anél
 
 
 BUGS xxxxxxxxxxxxxxxxxxxxxxx
 ok- Contas de divisão dando números infinitos
 - Contas de subtração dando números negativos. Não tem como responder
-- Se o números de casts passar de 1, quando o usuário lançar uma magia, todos os blocos ficarão em empty
+- Se o número de casts passar de 1, quando o usuário lançar uma magia, todos os blocos ficarão em empty
 ok-  Os números escolhidos para a fórmula no pc pode ser diferente do player porque podemos chegar no mesmo resultado com valores diferentes
 
 
