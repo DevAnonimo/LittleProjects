@@ -8,7 +8,7 @@ ok- Para o player lançar a magia, o jogo usa uma caixa na posição atual do mo
 ok- Na criação da magia, ou ele já vai me dar o resultado pra fazer a fórmula ou vou ter que encontrar o resultado com a fómula dada
 - Início do jogo deve ser seguido igual na demo do jogo Lord of the Rings: Conquest
 ok- Quando o mouse passa por cima de algo que possa ser feito com a magia, o sprite do cursor é trocado
-- Quando uma conta é feita, o jogador recebe uma quantidade de vezes que pode criar a magia.
+ok- Quando uma conta é feita, o jogador recebe uma quantidade de vezes que pode criar a magia.
 
 
 ESTOU PENSANDO EM FAZER ~~~~~~~~~~~~~~
@@ -24,6 +24,7 @@ nova, liberar novos espaços no mapa...
 BUGS xxxxxxxxxxxxxxxxxxxxxxx
 ok- Contas de divisão dando números infinitos
 - Contas de subtração dando números negativos. Não tem como responder
+- Se o números de casts passar de 1, quando o usuário lançar uma magia, todos os blocos ficarão em empty
 ok-  Os números escolhidos para a fórmula no pc pode ser diferente do player porque podemos chegar no mesmo resultado com valores diferentes
 
 
