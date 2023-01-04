@@ -8,3 +8,7 @@ tilemaps - https://cainos.itch.io/pixel-art-top-down-basic
 
 magic icon
 - https://opengameart.org/content/painterly-spell-icons-part-3
+
+Magics powers
+Shield - https://opengameart.org/content/shield-effect
+Attack stopped fire -  
