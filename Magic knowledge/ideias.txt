@@ -12,11 +12,11 @@ ok- Quando uma conta é feita, o jogador recebe uma quantidade de vezes que pode
 - O tipo de poder da magia pode ser difinido pela dificuldade de fazer a equação. Pode ser com base o número de algarismos na fórmula
 - Trocar o botão atual de criar magia, para um cérebro já que a narrativa corre em torno disso
 - Melhorar câmera de movimentação. Colocar algo mais suave
-- Magia de Ataque
-- Magia de Defesa
+ok- Magia de Ataque: Fire
+- Magia de Defesa: Shield
 - Magia de Summon
 - Magia de Speed
-
+- Ataque normal corpo a corpo
 
 ESTOU PENSANDO EM FAZER ~~~~~~~~~~~~~~
 ~ Quando mudar de nível, ele recebe novos poderes para praticar mais aqueles poderes do nível anterior, ficam como padrão agora
