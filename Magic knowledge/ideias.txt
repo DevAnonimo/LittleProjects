@@ -15,7 +15,8 @@ ok- Quando uma conta é feita, o jogador recebe uma quantidade de vezes que pode
 ok- Magia de Ataque: Fire
 - Magia de Defesa: Shield
 - Magia de Summon
-- Magia de Speed
+ok- Magia de Speed
+- Sistema de dano: Criar inimigos com a vida
 - Ataque normal corpo a corpo
 
 ESTOU PENSANDO EM FAZER ~~~~~~~~~~~~~~
