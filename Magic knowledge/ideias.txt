@@ -13,10 +13,11 @@ ok- Quando uma conta é feita, o jogador recebe uma quantidade de vezes que pode
 - Trocar o botão atual de criar magia, para um cérebro já que a narrativa corre em torno disso
 - Melhorar câmera de movimentação. Colocar algo mais suave
 ok- Magia de Ataque: Fire
-- Magia de Defesa: Shield
+ok- Magia de Defesa: Shield
 - Magia de Summon
 ok- Magia de Speed
-- Sistema de dano: Criar inimigos com a vida
+- Sistema de dano: Criar inimigos com a vida ok; Tirar vida do inimigo ok; Matar inimigo ok; Receber dano; Morrer;
+- Sistema de animações - Espécie de API para animar os comandos do jogador
 - Ataque normal corpo a corpo
 
 ESTOU PENSANDO EM FAZER ~~~~~~~~~~~~~~
